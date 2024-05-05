@@ -1,0 +1,6 @@
+- Tables of all clustered materials analysed in the paper, with their associated band structures, 
+are found in ”all_cluster_tables”. 
+
+- Full material data for this electronic clustering can be found in "df_fingerprints_and_final_labels.csv".
+
+- A looser clustering solution with ~100 smaller clusters can be found in ”looser_solution_cluster_tables”.
